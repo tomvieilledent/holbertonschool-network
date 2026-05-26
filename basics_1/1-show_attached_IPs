@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script script script script script script script 
+
+ifconfig | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
