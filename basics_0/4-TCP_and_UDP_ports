@@ -1,4 +1,4 @@
-#!/bin/bash
-#script
+#!/usr/bin/env bash
+# Script script script script script script script script script 
 
 netstat -lpn
